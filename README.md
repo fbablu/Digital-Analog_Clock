@@ -9,4 +9,4 @@ Here's my Week 0 Prompt Submission for BitCamp. Files attached are:
 - style.css 
 
 Live Clock: https://digital-analogclock.fardeeneb.repl.co/
-ScreenCap: ![preview of clock](https://digital-analogclock.fardeeneb.repl.co/)
+ScreenCap: Click the "results.png" file
