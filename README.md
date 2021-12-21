@@ -2,11 +2,8 @@
 
 Hello!
 
-Here's my Week 0 Prompt Submission for BitCamp. Files attached are:
+The following is a simple introductory project of a live clock that I made using HTML, JavaScript, and CSS.
 
-- index.html 
-  - js code (embedded within the html <script> element)
-- style.css 
 
 Live Clock: https://digital-analogclock.fardeeneb.repl.co/
 ScreenCap: Click the "results.png" file
